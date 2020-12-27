@@ -1,4 +1,4 @@
-package com.cw.main.keyword;
+package com.cw.main.keyword.web.controller;
 
 import com.cw.main.keyword.utils.KeyWordUtils;
 
